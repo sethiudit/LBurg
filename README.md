@@ -1,2 +1,2 @@
-# Atri-App visit
+# LBurg
 https://sethiudit.github.io/LBurg/
